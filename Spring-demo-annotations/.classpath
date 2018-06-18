@@ -5,6 +5,7 @@
 	<classpathentry kind="src" path="practiceactivity4"/>
 	<classpathentry kind="src" path="practiceActivity5"/>
 	<classpathentry kind="src" path="practiceActivity6"/>
+	<classpathentry kind="src" path="practiceActivity7"/>
 	<classpathentry kind="lib" path="lib/spring-aop-5.0.6.RELEASE-javadoc.jar"/>
 	<classpathentry kind="lib" path="lib/spring-aop-5.0.6.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="lib/spring-aop-5.0.6.RELEASE.jar"/>
